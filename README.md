@@ -7,7 +7,7 @@
 - HTML
 - SCSS
 - CSS
-- Preprose Compiler
+- Prepros Compiler
 
 **Licensing**
 - ©2016 Alex Muchiri, All Rights Reserved.
